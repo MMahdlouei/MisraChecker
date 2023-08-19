@@ -1,0 +1,3 @@
+{
+    "files": ["form.ui","mainwindow.py",".gitignore","__init__.py","cppcheck.py","cppcheckdata.doxyfile","cppcheckdata.py","findcasts.py","form.ui","mainwindow.py","majid.txt","misc.py","Misra.json","misra.py","misra_9.py","misra_rules_dummy.txt","MisraGUI.pyproject.user","naming.json","naming.py","namingng.py","README.md","ROS_naming.json","runaddon.py","RunTest.py","setting.txt","threadsafety.py","ui_form.py","y2038.py"]
+}

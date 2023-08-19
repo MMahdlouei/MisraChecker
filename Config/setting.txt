@@ -1,0 +1,2 @@
+Text Rule Path:""
+File To Analyze Path:"C:/Users/99143/Desktop/Cluster/Firstinit/Src/EEP.c"
